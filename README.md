@@ -1,1 +1,1 @@
-Coveter JSON to class instance
+Convert JSON to class instance
